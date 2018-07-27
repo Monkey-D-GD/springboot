@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * <dl>
- * <dd>描述: ~节点业务逻辑实现</dd>
+ * <dd>描述: ~</dd>
  * <dd>创建时间：  9:56 2018/6/12</dd>
  * <dd>创建人： guodong</dd>
  * <dt>版本历史: </dt>
