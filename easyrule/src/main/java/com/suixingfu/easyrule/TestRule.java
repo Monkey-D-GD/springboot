@@ -1,4 +1,4 @@
-package com.suixingfu.easyrule.main;
+package com.suixingfu.easyrule;
 
 import com.suixingfu.easyrule.rule.BlueRule;
 import com.suixingfu.easyrule.rule.RedRule;
@@ -8,7 +8,7 @@ import org.easyrules.core.RulesEngineBuilder;
 
 /**
  * <dl>
- * <dd>描述: ~节点业务逻辑实现</dd>
+ * <dd>描述: ~规则引擎测试</dd>
  * <dd>创建时间：  14:44 2018/6/12</dd>
  * <dd>创建人： guodong</dd>
  * <dt>版本历史: </dt>

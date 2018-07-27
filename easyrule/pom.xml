@@ -35,11 +35,17 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
+		<!--easyrules 规则引擎-->
 		<dependency>
 			<groupId>org.easyrules</groupId>
 			<artifactId>easyrules-core</artifactId>
 			<version>2.4.0</version>
+		</dependency>
+		<!--fel表达式-->
+		<dependency>
+			<groupId>org.eweb4j</groupId>
+			<artifactId>fel</artifactId>
+			<version>0.8</version>
 		</dependency>
 	</dependencies>
 
